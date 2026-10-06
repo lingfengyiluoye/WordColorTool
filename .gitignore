@@ -1,0 +1,19 @@
+# 编译产物
+*.exe
+*.pdb
+*.dll
+bin/
+obj/
+
+# 日志
+*.log
+debug.log
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
